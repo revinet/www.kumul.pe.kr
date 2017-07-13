@@ -1,0 +1,149 @@
+==================================================================
+https://keybase.io/reviwm
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kumul.pe.kr
+  * I am reviwm (https://keybase.io/reviwm) on keybase.
+  * I have a public key with fingerprint 947F 156F 1625 0DE3 9788  C3C3 5B62 5DA5 BEFF 197A
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101464af5628a810f53108b9af88820c11b6ac2d8e124643312b22425a5e2fdac220a",
+            "fingerprint": "947f156f16250de39788c3c35b625da5beff197a",
+            "host": "keybase.io",
+            "key_id": "5b625da5beff197a",
+            "kid": "0101464af5628a810f53108b9af88820c11b6ac2d8e124643312b22425a5e2fdac220a",
+            "uid": "0e8d05f6b1e737dce18d37c8b9f21600",
+            "username": "reviwm"
+        },
+        "service": {
+            "hostname": "kumul.pe.kr",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1499958140,
+    "expire_in": 157680000,
+    "prev": "74d6965f2c3b9cf94e75e5b814c327aa4c4531febf33ebc8af52a797fd19bf01",
+    "seqno": 112,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.72
+Comment: https://keybase.io/crypto
+
+yMNEAnicrVJtUFRVGF4E1BgamWVkKI2JiyUU4j337v1aSSwiFkHLL4oRXO/Hucvl
+Y3fZL1xXviZ0msCIYnAQChE/mGEGaASaciBFG0WYwMggUGhCLXYtSjEbZaBzzf71
+s/PnzHnf53nO8z7zXnzaXxPkZ2iz7as59bvkN3C+1qnJMFUc8GCCRXJjeg+WCx9f
+ME+CdocxV5EwPYYDHOhoHS9TNMHyLMBligQ4K3C8zLIsgYsACDQvEhILAYGAJAkI
+gSB0BMVTkJAl1CJwHovFZMVsgjarTTE7kCynY2RA0TKgCQqXIMkxLCuSIkkJqCDx
+lABlGXCMSsy22FUGMifwdhinWFANPYyP7f0H/n/27fxHDrISTsm0ACBDMpIIASuR
+jIj0ZALQOK4C7dBm5vMhQtugSynMx4piMVRzKSJUY1XneNLPdeY78+KsMC7XhohW
+m8VhES15qJHtcFjtepXocFtVZCEUjE80jIJillCIiOGCNrtiMWN6gJCiQ1FFgY7j
+OIoFOjwWg/usig0aFRVBMTSLo6P+A11IktFJNEdTMiGSAifKnA4yFKQExBRJguF5
+nahDUclQkEkSCiKLIiR4hmNkCXCCjANMnarAbEHagEBGeRMStSsmM+9w2iBW1Hc+
+M0DjF6RZGrhEXS9N0FMh/y7dI9+Kxd2+LQuY11AxtT58eG1LwDJ3jbSzyvcwCKZ4
+wqbclypybuDRl1+e9GoTtnhvftvcMrejpV3f6LkacD33SOKHE3ULf5bFt94/3BV5
+qdjtPhZR4cibqd20+HA7D4sCv95c/lJyW1taV35dtj76y+prm0d2V4/wqw2NjWmJ
+F5JrQjaOlo0fGhb8j3Smv3+/PLh9+uPZzsEUU//60eiVm9zYUOQt/2fJ1qRVe0+M
+/3DgXmtWcHhixCzvi/8go+tmp1+vYa6i6cRUW1P3yVPF72j5/fbn4hq0a382bRjc
+3nQ8Z9u0KS4zc91PPec66I9K2uTCiYKidz8Znp+fXXG2YKQmsffHsItnr2w7SUwm
+9Y61fj8etay5IX20LMIVeiuqe/iut3/sTMRWQ+nnJalXjrO3K4+Vll6u7qknYp+/
+4X/uzivjqd2eozB04x+VLyzfFbMzvOXCb7Wrg/MfaGdiDq6sWwhuHCgeM9f39KW4
++n1rpt8ApXsNp9ex14MGyg/eGwvNSmuYsGi/Gaeujhq/+nXXZ1VznEvan1S2I947
+U12Q0n60fCin4+2Q8MqSw9IznvT3MiLrna+2NJwOmVS67kp7fglfBfK0ga+lRm3d
+k5C8JvTFqk99k5Rmw1Dk8sFo1xJf2JnXxawq78ihzPkv5h/89Za2uWpp9JtuZeg7
+fP5Ox7U0sS/4UUJIx2LM7YG/AQmWxl0=
+=uw9d
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/reviwm
+
+==================================================================
+==================================================================
+https://keybase.io/reviwm
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kumul.pe.kr
+  * I am reviwm (https://keybase.io/reviwm) on keybase.
+  * I have a public key with fingerprint 947F 156F 1625 0DE3 9788  C3C3 5B62 5DA5 BEFF 197A
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101464af5628a810f53108b9af88820c11b6ac2d8e124643312b22425a5e2fdac220a",
+            "fingerprint": "947f156f16250de39788c3c35b625da5beff197a",
+            "host": "keybase.io",
+            "key_id": "5b625da5beff197a",
+            "kid": "0101464af5628a810f53108b9af88820c11b6ac2d8e124643312b22425a5e2fdac220a",
+            "uid": "0e8d05f6b1e737dce18d37c8b9f21600",
+            "username": "reviwm"
+        },
+        "service": {
+            "hostname": "kumul.pe.kr",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1499958140,
+    "expire_in": 157680000,
+    "prev": "74d6965f2c3b9cf94e75e5b814c327aa4c4531febf33ebc8af52a797fd19bf01",
+    "seqno": 112,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.72
+Comment: https://keybase.io/crypto
+
+yMNEAnicrVJtUFRVGF4E1BgamWVkKI2JiyUU4j337v1aSSwiFkHLL4oRXO/Hucvl
+Y3fZL1xXviZ0msCIYnAQChE/mGEGaASaciBFG0WYwMggUGhCLXYtSjEbZaBzzf71
+s/PnzHnf53nO8z7zXnzaXxPkZ2iz7as59bvkN3C+1qnJMFUc8GCCRXJjeg+WCx9f
+ME+CdocxV5EwPYYDHOhoHS9TNMHyLMBligQ4K3C8zLIsgYsACDQvEhILAYGAJAkI
+gSB0BMVTkJAl1CJwHovFZMVsgjarTTE7kCynY2RA0TKgCQqXIMkxLCuSIkkJqCDx
+lABlGXCMSsy22FUGMifwdhinWFANPYyP7f0H/n/27fxHDrISTsm0ACBDMpIIASuR
+jIj0ZALQOK4C7dBm5vMhQtugSynMx4piMVRzKSJUY1XneNLPdeY78+KsMC7XhohW
+m8VhES15qJHtcFjtepXocFtVZCEUjE80jIJillCIiOGCNrtiMWN6gJCiQ1FFgY7j
+OIoFOjwWg/usig0aFRVBMTSLo6P+A11IktFJNEdTMiGSAifKnA4yFKQExBRJguF5
+nahDUclQkEkSCiKLIiR4hmNkCXCCjANMnarAbEHagEBGeRMStSsmM+9w2iBW1Hc+
+M0DjF6RZGrhEXS9N0FMh/y7dI9+Kxd2+LQuY11AxtT58eG1LwDJ3jbSzyvcwCKZ4
+wqbclypybuDRl1+e9GoTtnhvftvcMrejpV3f6LkacD33SOKHE3ULf5bFt94/3BV5
+qdjtPhZR4cibqd20+HA7D4sCv95c/lJyW1taV35dtj76y+prm0d2V4/wqw2NjWmJ
+F5JrQjaOlo0fGhb8j3Smv3+/PLh9+uPZzsEUU//60eiVm9zYUOQt/2fJ1qRVe0+M
+/3DgXmtWcHhixCzvi/8go+tmp1+vYa6i6cRUW1P3yVPF72j5/fbn4hq0a382bRjc
+3nQ8Z9u0KS4zc91PPec66I9K2uTCiYKidz8Znp+fXXG2YKQmsffHsItnr2w7SUwm
+9Y61fj8etay5IX20LMIVeiuqe/iut3/sTMRWQ+nnJalXjrO3K4+Vll6u7qknYp+/
+4X/uzivjqd2eozB04x+VLyzfFbMzvOXCb7Wrg/MfaGdiDq6sWwhuHCgeM9f39KW4
++n1rpt8ApXsNp9ex14MGyg/eGwvNSmuYsGi/Gaeujhq/+nXXZ1VznEvan1S2I947
+U12Q0n60fCin4+2Q8MqSw9IznvT3MiLrna+2NJwOmVS67kp7fglfBfK0ga+lRm3d
+k5C8JvTFqk99k5Rmw1Dk8sFo1xJf2JnXxawq78ihzPkv5h/89Za2uWpp9JtuZeg7
+fP5Ox7U0sS/4UUJIx2LM7YG/AQmWxl0=
+=uw9d
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/reviwm
+
+==================================================================
+
